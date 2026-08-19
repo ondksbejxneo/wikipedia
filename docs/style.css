@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+.main {
+    display: flex;
+    margin-left: 15px;
+}
+.text {
+    margin-top: 140px;
+    margin-left: 30px;
+    line-height: 30px;
+}
+.h2 {
+    margin-left: 15px;
+}
+.link {
+    margin-left: 15px;
+}
+.list {
+    line-height: 27px;
+    background-color: #b5b5cf;
+}
